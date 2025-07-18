@@ -1,2 +1,2 @@
 # example
-clone example
+clone examples
